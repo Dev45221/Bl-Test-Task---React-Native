@@ -1,0 +1,5 @@
+export const Register_User = "REGISTER"
+export const Sign_In = "SIGN_IN"
+export const Splash_Visible = "SPLASH_VISIBLE"
+export const Add_Cart = "ADD_CART"
+export const Remove_Cart = "REMOVE_CART"
